@@ -19,7 +19,13 @@ export default defineConfig({
         ]
       }
     ],
-
+    footer: {
+      message: 'Released under the MIT License.',
+      copyright: 'Copyright © 2024-present PengBoUESTC'
+    },
+    search: {
+      provider: 'local'
+    },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/PengBoUESTC' }
     ]
