@@ -1,4 +1,19 @@
 {
+  "name": "FE-Tools",
+  "version": "0.0.0",
+  "description": "",
+  "bin": {},
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [],
+  "author": "pengbo",
+  "license": "ISC",
+  "homepage": "https://github.com/PengBoUESTC/FE-Tools.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PengBoUESTC/FE-Tools.git"
+  },
   "scripts": {
     "docs:dev": "vitepress dev doc",
     "docs:build": "vitepress build doc",

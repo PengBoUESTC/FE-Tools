@@ -6,10 +6,10 @@ hero:
   name: "FE-Tools"
   text: "Good code for fun :) \nBad code for run :("
   # tagline: My great project tagline
-  # actions:
-  #   - theme: brand
-  #     text: Tools
-  #     link: /tools
+  actions:
+    - theme: brand
+      text: Read More
+      link: /vitePluginEnvSwitch
 
 features:
   - title: vite-plugin-env-switch

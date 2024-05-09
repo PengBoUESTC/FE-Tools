@@ -13,10 +13,9 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'tools',
         items: [
-          { text: 'vite-plugin-env-switch', link: '/markdown-examples' },
-          { text: 'vite-plugin-i18n-autoimport', link: '/api-examples' }
+          { text: 'vitePluginEnvSwitch', link: '/vitePluginEnvSwitch' },
+          { text: 'vitePluginI18nAutoimport', link: '/vitePluginI18nAutoimport' }
         ]
       }
     ],
