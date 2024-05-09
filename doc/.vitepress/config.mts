@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "FE-Tools",
   description: "code for fun",
-  base: "FE-Tools",
+  base: "/FE-Tools/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
