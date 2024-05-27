@@ -15,7 +15,12 @@ export default defineConfig({
       {
         items: [
           { text: 'vitePluginEnvSwitch', link: '/vitePluginEnvSwitch' },
-          { text: 'vitePluginI18nAutoimport', link: '/vitePluginI18nAutoimport' }
+          { text: 'vitePluginI18nAutoimport', link: '/vitePluginI18nAutoimport' },
+          { text: 'touchMove', link: '/touchMove', items: [
+            { text: 'touchMove', link: '/touchMove'},
+            { text: 'vitePluginElsMovable', link: '/vitePluginElsMovable'},
+            { text: 'webpackPluginElsMovable', link: '/webpackPluginElsMovable'},
+          ] },
         ]
       }
     ],

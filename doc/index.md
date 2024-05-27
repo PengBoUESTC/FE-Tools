@@ -21,8 +21,14 @@ features:
   - title: vscode-dot-preview
     details: Preview & compare the dot env config value.
     link: https://github.com/PengBoUESTC/vscode-dot-preview
+  - title: touch-move
+    details: touchmove & drag event listener.
+    link: https://github.com/PengBoUESTC/touch-move
   - title: vite-plugin-els-movable
-    details: Let elements movable.
+    details: Based on touch-move script, make elements movable.
     link: https://github.com/PengBoUESTC/vite-plugin-els-movable
+  - title: webpack-plugin-els-movable
+    details: Based on touch-move script, make elements movable.
+    link: https://github.com/PengBoUESTC/webpack-plugin-els-movable
 ---
 
