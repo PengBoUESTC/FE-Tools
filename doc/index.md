@@ -15,9 +15,15 @@ features:
   - title: vite-plugin-env-switch
     details: Switch the dev server env conveniently.
     link: https://github.com/PengBoUESTC/vite-plugin-env-switch
+  - title: type-to-value
+    details: Convert typescript type to javascript value.
+    link: https://github.com/PengBoUESTC/type-to-value
   - title: vite-plugin-i18n-autoimport
     details: Auto import i18n config by defineI18n() macro.
     link: https://github.com/PengBoUESTC/vite-plugin-i18n-autoimport
+  - title: vite-plugin-envtype-patch
+    details: Auto generate type info for `import.meta.env`.
+    link: https://github.com/PengBoUESTC/vite-plugin-envtype-patch
   - title: vscode-dot-preview
     details: Preview & compare the dot env config value.
     link: https://github.com/PengBoUESTC/vscode-dot-preview
